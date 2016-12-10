@@ -17,6 +17,10 @@ var websites = [
 		"thechive.com",
 		"likes.com",
 		"uppskattat.se"
+		"today.it"
+		"fanpage.it"
+		"retenews24.it"
+		"fanpa.ge"
 	]
 
 var buildQuery = function(strings) {
